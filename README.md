@@ -102,10 +102,6 @@ The project includes analysis of:
 
 **Group 04** - EDISS Data Science Lab
 
-## Project Status
-
-This is an academic project for the EDISS (likely European Data and Information Systems Science) program.
-
 ## License
 
 This project is part of an academic assignment. Please check with the repository owner for usage rights.
@@ -119,5 +115,3 @@ This is an educational project. For questions or suggestions, please contact the
 Repository maintained by: [@thanhduycao](https://github.com/thanhduycao)
 
 ---
-
-*Note: This is a lab assignment project. The data and analysis are for educational purposes.*
