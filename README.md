@@ -86,12 +86,6 @@ jupyter notebook lab01_group04.ipynb
    - Perform exploratory analysis
    - Generate visualizations
 
-### Using the Shell Script
-
-Execute the automation script:
-```bash
-bash script.sh
-```
 
 ## Data Analysis
 
